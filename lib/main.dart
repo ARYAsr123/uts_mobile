@@ -56,6 +56,11 @@ class _MyHomePageState extends State<MyHomePage> {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
+                Image(
+                    image: const AssetImage("../img/cat.png"),
+                    fit: BoxFit.fitWidth,
+                    alignment: Alignment.topCenter,
+                    width: MediaQuery.of(context).size.height / 2.5),
                 MyTextField(
                   horizontal: 40,
                   vertical: 10,

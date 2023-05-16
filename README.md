@@ -1,16 +1,15 @@
-# aplikasitest1
+# Uts Mobile
 
-A new Flutter project.
+## Nama
 
-## Getting Started
+[Arya syah ramadhan]
 
-This project is a starting point for a Flutter application.
+## NIM
 
-A few resources to get you started if this is your first Flutter project:
+[312110149]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Kelas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[TI.21.A.3]
+
+![Logo Flutter](img/ss1.jpg)
